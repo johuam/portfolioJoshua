@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(kg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    font-family: Verdana;
+    color: aqua;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    background-color: turquoise;
+    color: rgb(39, 102, 96);
+    padding: 5px;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    color: #333;
+}
+span {
+    color: #333;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    background-image: url(stars.gif);
+    background-size: cover;
+}
+.logo {
+    height: 100px;
+    width: 100px;
+}
+section a p:hover {
+    color: rgb(6, 2, 255);
+    background-image: url(caty.gif);
+    background-size: 100px;
+    margin: 50px;
+}
+div p img {
+    background-color: rgb(255, 255, 255);
+    width: 40px;
+}
+div p img:hover {
+    background-image: url(stars.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    transition-duration: 2s;
+}
