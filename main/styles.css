@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(kg.jpg);
+    background-image: url(./redirect/kg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -56,7 +56,7 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px 0;
-    background-image: url(stars.gif);
+    background-image: url(./redirect/stars.gif);
     background-size: cover;
 }
 .logo {
@@ -65,7 +65,7 @@ footer {
 }
 section a p:hover {
     color: rgb(6, 2, 255);
-    background-image: url(caty.gif);
+    background-image: url(./redirect/caty.gif);
     background-size: 100px;
     margin: 50px;
 }
@@ -74,7 +74,7 @@ div p img {
     width: 40px;
 }
 div p img:hover {
-    background-image: url(stars.gif);
+    background-image: url(./redirect/stars.gif);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: gray;
